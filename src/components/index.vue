@@ -22,6 +22,7 @@ export default {
         tld: 'cn',
         to: 'zh-CN',
         browers: true
+
       })
       const data = result.data[0]
       this.outstr = data
